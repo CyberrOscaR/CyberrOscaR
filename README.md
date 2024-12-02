@@ -1,8 +1,13 @@
 # 💫About Me :
+
 🔭 I’m currently working on The creation of my company
+
 👯 I’m looking to collaborate on Development learning projects
+
 🌱 I’m currently learning Intermediate Degree in Microcomputer Systems and Networks
+
 👨‍💻 All of my projects are available at https://github.com/CyberrOscaR
+
 ⚡ Fun fact ¿Por qué el servidor rompió con el router?  Porque no había conexión. 😄💻🌐
 
 ## 🌐Socials
@@ -17,9 +22,6 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=CyberrOscaR&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CyberrOscaR&icon=4&color=8)](https://visitcount.itsvg.in)
